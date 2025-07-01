@@ -23,7 +23,4 @@
 
 ---
 
-### ⚡ Fun fact:
-I like tinkering with low-level code, breaking things (ethically), and making them more secure.
-
-> *"Freedom is not just a right — it's a responsibility."*
+> *"In Linux we trust."*
