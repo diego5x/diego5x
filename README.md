@@ -1,7 +1,6 @@
 <img src="gif.gif" style="width: 500px;">
 
-🎓 I'm a **Computer Science student** passionate about **Cybersecurity** and **Backend Development**. I believe in a safer, freer web and I'm an enthusiast of **Free and Open Source Software (FOSS)** culture.
-
+🎓 I'm a **Computer Science student** with a focus on **Cybersecurity** and **Backend Development**. I'm a Linux enthusiast and a **Free and Open Source Software (FOSS)** cultur
 
 ## 💻 Skills
 
