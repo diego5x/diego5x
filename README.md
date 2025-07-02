@@ -7,13 +7,13 @@
 ## 💻 Skills
 
 - **Languages:**  
-  Bash · C · Assembly
+  Bash, C, Assembly
 
 - **Operating Systems:**  
-  Linux (I use Arch, btw 😂)
+  Linux (I use Arch, btw)
 
 - **Web Development:**  
-  PHP · Node.js
+  PHP, Node.js
 
 ---
 
