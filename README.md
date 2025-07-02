@@ -7,7 +7,7 @@
 ## 💻 Skills
 
 - **Languages:**  
-  Bash, C, Assembly
+  Bash, C/C++, Assembly
 
 - **Operating Systems:**  
   Linux (I use Arch, btw)
