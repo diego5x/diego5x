@@ -15,7 +15,7 @@
 
 ## 📬 Contact
 
-📧 Email: [dieg0x20@tutamail.com](mailto:dieg0x20@proton.me)
+📧 Email: [dieg0x20@proton.me](mailto:dieg0x20@proton.me)
 
 
 > *"In Linux we trust."*
