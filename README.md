@@ -7,5 +7,5 @@
 ██████╔╝██║███████╗╚██████╔╝╚██████╔╝
 ╚═════╝ ╚═╝╚══════╝ ╚═════╝  ╚═════╝ 
 </br>
-🎓 I'm a **Computer Science student** with a focus on **Cybersecurity** and **Backend Development**.</br> I'm a Linux enthusiast and a **Free and Open Source Software (FOSS)** cultur
+🎓 I'm a <b>Computer Science student</b> with a focus on <b>Cybersecurity</b> and <b>Backend Development</b>.</br>I'm a Linux enthusiast and a <b>Free and Open Source Software (FOSS)</b> cultur
   </pre>
